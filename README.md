@@ -137,3 +137,17 @@ movebus/
 | TTS | [gTTS](https://gtts.readthedocs.io/) + [edge-tts](https://github.com/rany2/edge-tts) |
 | Scraping | [Playwright](https://playwright.dev/python/) |
 | API | [FastAPI](https://fastapi.tiangolo.com/) |
+
+---
+
+## Equipe
+
+Projeto desenvolvido na disciplina **Fundamentos de Inteligência Artificial** da **Universidade da Região de Joinville (Univille)**, nos cursos de Engenharia de Software e Sistemas de Informação.
+
+**Professor:** Laurindo
+
+**Alunas:**
+- Ana Paula
+- Ellen Beatriz
+- Milena Damasia
+- Thaynara Peron
