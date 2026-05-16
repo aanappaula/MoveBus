@@ -1,0 +1,35 @@
+# MoveBus — dependências do projeto
+# Instalar com: pip install -r requirements.txt
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+playwright==1.49.0
+
+# Speech-to-Text
+openai-whisper==20250625
+
+# Vector store e embeddings
+chromadb==0.6.3
+sentence-transformers==3.3.1
+
+# RAG e LLM
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+tiktoken==0.8.0
+
+# Text-to-Speech
+gtts==2.5.4
+edge-tts==6.1.12
+pydub==0.25.1
+
+# Testes
+hypothesis==6.123.1
+pytest==8.3.4
+pytest-asyncio==0.25.0
+
+# API HTTP (opcional)
+fastapi==0.115.6
+python-multipart==0.0.20
+uvicorn==0.34.0

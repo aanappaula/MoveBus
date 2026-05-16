@@ -1,0 +1,31 @@
+# Kiro
+.kiro/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Dependências e build
+dist/
+build/
+
+# Ambiente
+.env
+*.env
+
+# ChromaDB
+chroma_db/
+
+# Outputs de áudio gerados
+output/
+
+# Modelos Whisper cache
+~/.cache/whisper/
+
+# OS
+.DS_Store
+Thumbs.db
